@@ -1,0 +1,7 @@
+.barra-top{
+    background-color: red;
+    height: 20px;
+}
+.menu ul li{
+    display: inline;
+}
